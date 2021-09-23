@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YanisAhdjoudj
 - 👀 I’m interested in :
--  Machine/Deep learning applicated on financial market, risk and economics problems.
+&nbsp; -  Machine/Deep learning applicated on financial market, risk and economics problems.
 -  Classic Macro/micro economic and financial modeling.
 -  Applications to music (scale recognition, artificial sound generation and recommendation system)
 -  AI interpretability.

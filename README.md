@@ -3,7 +3,7 @@
 - 👀 I’m interested in :
     -  Machine/Deep learning applicated on financial market, risk and economics problems.
     -  Classic Macro/Micro economic and financial modeling.
-    -  Applications to music (scale recognition, artificial sound generation and recommendation system).
+    -  Applications to music and art.
     -  AI interpretability.
 - 🌱 I’m currently working :
     -  As model risk manager at Crédit Mutuel in a model validation team.

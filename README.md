@@ -2,16 +2,16 @@
 
 - 👀 I’m interested in :
     -  Machine/Deep learning applicated on financial market, risk and economics problems.
-    -  Classic Macro/Micro economic and financial modeling.
-    -  Applications to music and art.
-    -  AI interpretability.
+    -  Classic Macro/Micro economics and financial modeling.
+    -  AI applications on music and art.
+    -  AI control and interpretability.
 - 🌱 I’m currently working :
     -  As model risk manager at Crédit Mutuel in a model validation team.
-    -  I've just finished my master's degree in data-science and statisctical modeling for economics and finance at University Paris 1 Pantheon-Sorbonne (M2 Mosef).
+    -  As teaching assistant for a course of Linear Algebra and Optimization at the Sorbonne School of Economics (second year students)
 - 📫 How to reach me ?
     -  On my [LinkedIn](https://www.linkedin.com/in/yanis-ahdjoudj-979458186).
 - ✨ What to find here ? 
-    -  Mainly academics projects for now.
+    -  Academics projects.
     -  From scratch Statistic/ML implementation (in progress).
 
 
